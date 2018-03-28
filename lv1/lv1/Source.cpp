@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("Pozdrav iz aplikacije od Antonio Došlic");
+	printf("Pozdrav iz aplikacije od Antonio Došlic, broj indeksa");
 	getch();
 }
